@@ -128,7 +128,3 @@ ecommerce-sales-analysis/
 - Data spans 2011–2014; all figures are historical.
 
 ---
-
-*Built as a portfolio project demonstrating an end-to-end analytics workflow — data cleaning,
-feature engineering, unsupervised + supervised modelling, time-series forecasting, and
-business storytelling.*
