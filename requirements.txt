@@ -1,0 +1,21 @@
+# Core data stack
+pandas
+numpy
+openpyxl          # read the .xlsx raw file
+
+# Visualisation
+plotly
+kaleido           # optional: export Plotly charts to static PNGs for the README
+
+# Machine learning
+scikit-learn      # K-Means, Random Forest, metrics
+prophet           # monthly sales forecasting
+mlxtend           # Apriori association rules
+joblib            # save/load trained models
+
+# Notebook environment
+jupyterlab
+notebook
+
+# Tip: once everything works, freeze exact versions for full reproducibility:
+#   pip freeze > requirements.txt
